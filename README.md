@@ -1,4 +1,4 @@
-💫 About Me:
+
 **🚀 About Me**<br><br>* 🔭 **I’m currently working on**: Building **e-Mate**, a Gen-Z focused educational app, and refining **oneDelhi**, a mobile application for bus ticket management.<br>* 👯 **I’m looking to collaborate on**: Projects involving **React Native**, **Expo**, or **Firebase** integration.<br>* 🤝 **I’m looking for help with**: Implementing **Claude API keys** and advanced paywall systems into mobile applications.<br>* 🌱 **I’m currently learning**: **Software Engineering** through my internship at DIGISAMAKSH and exploring **Hackintosh** configurations for AMD-based hardware.<br>* 💬 **Ask me about**: **Mobile app development**, prompt engineering, or how to design **Bento-style** and **glassmorphism** UIs.<br>* ⚡ **Fun fact**: I've participated in **PromptWars** and enjoy creating AI-generated digital media like caricatures and anime wallpapers.<br>
 
 
