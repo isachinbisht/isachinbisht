@@ -1,6 +1,6 @@
 # 🚀 Sachin Bisht
 
-**Software Engineering Intern @ DIGISAMAKSH**
+**Software Engineering Intern 
 
 Mobile Dev | AI Integration | UI/UX Enthusiast
 
