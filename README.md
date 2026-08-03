@@ -16,5 +16,5 @@
 > Location : Delhi, India 🇮🇳
 > Role     : Software & Mobile Application Developer
 > Stack    : React Native, Expo, TypeScript, Python, Firebase
-> Building : e-Mate & Smart Event Systems.
+> Building : e-Mate & Smart Event Systems..
 
