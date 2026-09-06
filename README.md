@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-```text
+
 > Location : Delhi, India 🇮🇳
 > Role     : Software & Mobile Application Developer
 > Stack    : React Native, Expo, TypeScript, Python, Firebase
